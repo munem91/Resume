@@ -6,11 +6,11 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       📍 Шри-Ланка 🇱🇰<br>
       🇧🇾 Беларусь
     </td>
-    <td>
+    <td valign="top">
       ✉️ borisukrusaln12345@gmail.com<br>
       📞 Viber: +375 (25) 5350547<br>
       📞 WhatsApp, Telegram: <a href="https://t.me/flutterruslan">@flutterruslan</a>
@@ -94,17 +94,4 @@
   <img src="Sfera.jpg" width="460">  
 </p>
 
-**Описание:** Получил базовые знания и навыки работы с Flutter и смежными технологиями, участвовал в разработке приложения "SFERA".
-
----
-
-## 📩 Контакты
-
-📧 **Email:** borisukrusaln12345@gmail.com  
-📱 **Telegram:** [@flutterruslan](https://t.me/flutterruslan)  
-📱 **Viber:** +375 (25) 5350547  
-📱 **WhatsApp:** +94 (74) 1585577  
-
----
-
-🔥 **Ищу интересные проекты! Готов к новым вызовам и сотрудничеству.**
+**Описание:

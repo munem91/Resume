@@ -1,13 +1,13 @@
 # 📌 Борисюк Руслан | Flutter Разработчик с 3-летним опытом
-
+<p align="left">
+  <img src="AVA.jpg" width="100" style="border-radius: 50%">
+</p>
 📍 Шри-Ланка 🇱🇰
 🇧🇾  Беларусь  
 ✉️ borisukrusaln12345@gmail.com  
 📞 Viber: +375 (25) 5350547  
 📞 WhatsApp, Telegram: [@flutterruslan](https://t.me/flutterruslan)
-<p align="left">
-  <img src="AVA.jpg" width="100" style="border-radius: 50%">
-</p>
+
 
 ## 🛠️ Навыки
 

@@ -7,7 +7,8 @@
       🇧🇾  Беларусь<br>
       ✉️ borisukrusaln12345@gmail.com<br>
       📞 Viber: +375 (25) 5350547<br>
-      📞 WhatsApp, Telegram: <a href="https://t.me/flutterruslan">@flutterruslan</a>
+      📞 WhatsApp, 
+      📞 Telegram: <a href="https://t.me/flutterruslan">@flutterruslan</a>
     </td>
     <td valign="top" align="right">
       <img src="AVA.jpg" width="120" style="border-radius: 50%; margin-left: 50px;">

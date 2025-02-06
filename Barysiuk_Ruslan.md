@@ -1,15 +1,23 @@
-# 📌 Борисюк Руслан | Flutter Разработчик с 3-летним опытом
+# Борисюк Руслан | Flutter Разработчик с 3-летним опытом
 
-<p align="right">
-  <img src="AVA.jpg" width="120" style="border-radius: 50%">
-</p>
+---
 
-📍 Шри-Ланка 🇱🇰  
-🇧🇾  Беларусь  
-✉️ borisukrusaln12345@gmail.com  
-📞 Viber: +375255350547  
-📞 WhatsApp: +94741585577
-📞 Telegram: [@flutterruslan](https://t.me/flutterruslan)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      📍 Шри-Ланка 🇱🇰 / 🇧🇾 Беларусь  
+      ✉️ borisukrusaln12345@gmail.com  
+      📞 Viber: +375255350547  
+      📞 WhatsApp: +94741585577  
+      📞 Telegram: @flutterruslan  
+    </p>
+  </div>
+  <div>
+    <img src="profile_photo.jpg" alt="Фото" width="120" style="border-radius: 50%;">
+  </div>
+</div>
+
+---
 
 ## 🛠️ Навыки
 
@@ -17,87 +25,55 @@
 
 - **Основные технологии:** Flutter, Dart, BLoC, Riverpod, Freezed  
 - **Бэкенд:** Serverpod, PostgreSQL, Firebase  
-- **Сетевые запросы:** Dio, REST API, WebSockets, gRPC  
+- **Сетевые запросы:** Dio, Http, REST API, WebSockets, gRPC  
 - **DevOps:** Docker, CI/CD, Git  
-- **Дополнительно:** web3dart, ankr, Onesignal  
+- **Дополнительно:** web3dart, ankr  
 
 ---
 
-## 🚀 Проекты
+## 📌 Проекты
 
-### Agrotook – Платформа для агро-бизнеса
+### Agrotook
+<div style="display: flex; align-items: center;">
+  <img src="agrotook_1.jpg" width="150">
+  <img src="agrotook_2.jpg" width="150">
+  <img src="agrotook_3.jpg" width="150">
+</div>
+**Описание:** Система управления агропредприятиями. Использованы Flutter, BLoC, Firebase.
 
-<p align="center">
-  <img src="Agrotook1.jpg" width="120"> 
-  <img src="Agrotook2.jpg" width="120"> 
-  <img src="Agrotook3.jpg" width="120"> 
-  <img src="Agrotook4.jpg" width="120"> 
-  <img src="Agrotook5.jpg" width="120">
-</p>
+### Kerla
+<div style="display: flex; align-items: center;">
+  <img src="kerla_1.jpg" width="150">
+  <img src="kerla_2.jpg" width="150">
+</div>
+**Описание:** Приложение для медицинских консультаций. Использованы Flutter, Serverpod, PostgreSQL.
 
-**Описание:** Разработал мобильное приложение-маркетплейс с нуля под руководством тимлида. Проект успешно запущен и завершен.  
+### Работник24
+<div style="display: flex; align-items: center;">
+  <img src="rabotnik_1.jpg" width="150">
+  <img src="rabotnik_2.jpg" width="150">
+</div>
+**Описание:** Платформа для поиска работы. Использованы Flutter, Firebase, REST API.
 
----
-
-### Kerla – Маркетплейс
-
-<p align="center">
-  <img src="Kerla1.jpg" width="120"> 
-  <img src="Kerla2.jpg" width="120"> 
-  <img src="Kerla3.jpg" width="120"> 
-  <img src="Kerla4.jpg" width="120"> 
-  <img src="Kerla5.jpg" width="120">
-</p>
-
-**Описание:** Финансовый инструмент для управления счетами и транзакциями. Использованы Firebase и PostgreSQL.
-
----
-
-### Работник24 – Биржа фриланса
-
-<p align="center">
-  <img src="Rabotnik1.jpg" width="120"> 
-  <img src="Rabotnik2.jpg" width="120"> 
-  <img src="Rabotnik3.jpg" width="120"> 
-  <img src="Rabotnik4.jpg" width="120"> 
-  <img src="Rabotnik5.jpg" width="120">
-</p>
-
-**Описание:** Участвовал в разработке крупного проекта с использованием Clean Architecture, BLoC, Freezed, Dio и Firebase.
-
----
-
-### Gyber – Крипто-кошелек
-
-<p align="center">
-  <img src="GyberWallet1.jpg" width="120"> 
-  <img src="GyberWallet2.jpg" width="120"> 
-  <img src="GyberWallet3.jpg" width="120"> 
-  <img src="GyberWallet4.jpg" width="120"> 
-  <img src="GyberWallet5.jpg" width="120">
-</p>
-
-**Описание:** Разработка крипто-кошелька с кастодиальными и некостодиальными хранилищами. Использованы Flutter, Serverpod и BLoC.
-
----
+### Гибер
+<div style="display: flex; align-items: center;">
+  <img src="giber_1.jpg" width="150">
+  <img src="giber_2.jpg" width="150">
+</div>
+**Описание:** Разработка крипто-кошелька. Использованы Flutter, Serverpod, BLoC.
 
 ### SFERA – Социальная платформа
-
-<p align="center">
-  <img src="Sfera.jpg" width="120">  
-</p>
-
-**Описание:** Получил базовые знания и навыки работы с Flutter и смежными технологиями, участвовал в разработке приложения "SFERA".
+<div style="display: flex; align-items: center;">
+  <img src="sfera.jpg" width="150">
+</div>
+**Описание:** Разработка социальной платформы. Получил опыт работы с Flutter и сопутствующими технологиями.
 
 ---
 
 ## 📩 Контакты
+📍 Шри-Ланка 🇱🇰 / 🇧🇾 Беларусь  
+✉️ borisukrusaln12345@gmail.com  
+📞 Viber: +375255350547  
+📞 WhatsApp: +94741585577  
+📞 Telegram: @flutterruslan  
 
-📧 **Email:** borisukrusaln12345@gmail.com  
-📱 **Telegram:** [@flutterruslan](https://t.me/flutterruslan)  
-📱 **Viber:** +375255350547  
-📱 **WhatsApp:** +94741585577  
-
----
-
-🔥 **Ищу интересные проекты! Готов к новым вызовам и сотрудничеству.**

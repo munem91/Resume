@@ -1,86 +1,103 @@
-# Flutter Разработчик с 3-летним опытом
+# 📌 Борисюк Руслан | Flutter Разработчик с 3-летним опытом
 
-![Avatar](AVA.jpg)
+<p align="right">
+  <img src="AVA.jpg" width="120" style="border-radius: 50%">
+</p>
 
-📍 Шри-Ланка  
+📍 Шри-Ланка 🇱🇰  
 🇧🇾  Беларусь  
 ✉️ borisukrusaln12345@gmail.com  
-📞 Viber: +375 (25) 5350547  
-📞 WhatsApp, Telegram: @flutterruslan  
+📞 Viber: +375255350547  
+📞 WhatsApp: +94741585577
+📞 Telegram: [@flutterruslan](https://t.me/flutterruslan)
 
-## Навыки
+## 🛠️ Навыки
 
-**Языки:** Dart, Kotlin, Java, TypeScript  
-**Фреймворки:** Flutter, Riverpod, BLoC, Freezed  
-**Бэкенд:** Serverpod, PostgreSQL, Firebase, Node.js  
-**Инструменты:** Dio, REST API, Docker, CI/CD, Git, GraphQL  
-**Дополнительно:** web3dart, ankr, Onesignal, WebSockets, gRPC  
+Специализируюсь на создании кроссплатформенных приложений на Flutter/Dart.  
 
-## Опыт работы
+- **Основные технологии:** Flutter, Dart, BLoC, Riverpod, Freezed  
+- **Бэкенд:** Serverpod, PostgreSQL, Firebase  
+- **Сетевые запросы:** Dio, REST API, WebSockets, gRPC  
+- **DevOps:** Docker, CI/CD, Git  
+- **Дополнительно:** web3dart, ankr, Onesignal  
 
-### forYou Inc (Август 2024 — Февраль 2025, 7 месяцев)  
-**Flutter Developer**  
-Разработал мобильное приложение маркетплейс с нуля под руководством тимлида. Проект запущен и завершен.
+---
 
-### Gybernaty Community (DTO) (Декабрь 2023 — Май 2024, 6 месяцев)  
-[gyber.org](https://gyber.org)  
-**Flutter Developer**  
-Участвовал в разработке и запуске стартапа, связанного с созданием криптокошельков (кастодиальных и некостодиальных). Использовал Flutter, Serverpod и BLoC для клиентской и серверной частей.
+## 🚀 Проекты
 
-### Freelance (Август 2023 — Февраль 2024, 7 месяцев)  
-**Flutter Developer**  
-Разрабатывал небольшие приложения и игры, интегрировал CI/CD, получил базовые знания Kotlin и Java.
+### Agrotook – Платформа для агро-бизнеса
 
-### РАБОТНИК24 (Сентябрь 2022 — Сентябрь 2023, 1 год 1 месяц)  
-**Flutter Developer**  
-Работал над крупным проектом с использованием Clean Architecture, BLoC, Freezed, Dio и Firebase под руководством опытного тимлида.
+<p align="center">
+  <img src="Agrotook1.jpg" width="120"> 
+  <img src="Agrotook2.jpg" width="120"> 
+  <img src="Agrotook3.jpg" width="120"> 
+  <img src="Agrotook4.jpg" width="120"> 
+  <img src="Agrotook5.jpg" width="120">
+</p>
 
-### SFERA (Май 2022 — Сентябрь 2022, 5 месяцев)  
-**Стажировка**  
-Получил базовые знания и навыки работы с Flutter и смежными технологиями, участвовал в разработке приложения "SFERA".
+**Описание:** Разработал мобильное приложение-маркетплейс с нуля под руководством тимлида. Проект успешно запущен и завершен.  
 
-## Образование
+---
 
-**2013** Институт современных знаний имени А.М. Широкова, Минск
+### Kerla – Маркетплейс
 
-## Проекты
+<p align="center">
+  <img src="Kerla1.jpg" width="120"> 
+  <img src="Kerla2.jpg" width="120"> 
+  <img src="Kerla3.jpg" width="120"> 
+  <img src="Kerla4.jpg" width="120"> 
+  <img src="Kerla5.jpg" width="120">
+</p>
 
-### Gyber Wallet  
-![Gyber Wallet](GyberWallet1.jpg)  
-![Gyber Wallet](GyberWallet2.jpg)  
-![Gyber Wallet](GyberWallet3.jpg)  
-![Gyber Wallet](GyberWallet4.jpg)  
-![Gyber Wallet](GyberWallet5.jpg)  
-![Gyber Wallet](GyberWallet6.jpg)  
+**Описание:** Финансовый инструмент для управления счетами и транзакциями. Использованы Firebase и PostgreSQL.
 
-### Rabotnik  
-![Rabotnik](Rabotnik1.jpg)  
-![Rabotnik](Rabotnik2.jpg)  
-![Rabotnik](Rabotnik3.jpg)  
-![Rabotnik](Rabotnik4.jpg)  
-![Rabotnik](Rabotnik5.jpg)  
-![Rabotnik](Rabotnik6.jpg)  
-![Rabotnik](Rabotnik7.jpg)  
-![Rabotnik](Rabotnik8.jpg)  
+---
 
-### Agrotook  
-![Agrotook](Agrotook1.jpg)  
-![Agrotook](Agrotook2.jpg)  
-![Agrotook](Agrotook3.jpg)  
-![Agrotook](Agrotook4.jpg)  
-![Agrotook](Agrotook5.jpg)  
-![Agrotook](Agrotook6.jpg)  
-![Agrotook](Agrotook7.jpg)  
+### Работник24 – Биржа фриланса
 
-### Kerla  
-![Kerla](Kerla1.jpg)  
-![Kerla](Kerla2.jpg)  
-![Kerla](Kerla3.jpg)  
-![Kerla](Kerla4.jpg)  
-![Kerla](Kerla5.jpg)  
+<p align="center">
+  <img src="Rabotnik1.jpg" width="120"> 
+  <img src="Rabotnik2.jpg" width="120"> 
+  <img src="Rabotnik3.jpg" width="120"> 
+  <img src="Rabotnik4.jpg" width="120"> 
+  <img src="Rabotnik5.jpg" width="120">
+</p>
 
-### SFERA  
-![SFERA](Sfera.jpg)  
+**Описание:** Участвовал в разработке крупного проекта с использованием Clean Architecture, BLoC, Freezed, Dio и Firebase.
 
-## О себе
-Специализируюсь на создании кроссплатформенных приложений на Flutter/Dart. Опыт работы с архитектурами BLoC и Riverpod, интеграцией API, настройкой CI/CD и развертыванием проектов на продакшен.
+---
+
+### Gyber – Крипто-кошелек
+
+<p align="center">
+  <img src="GyberWallet1.jpg" width="120"> 
+  <img src="GyberWallet2.jpg" width="120"> 
+  <img src="GyberWallet3.jpg" width="120"> 
+  <img src="GyberWallet4.jpg" width="120"> 
+  <img src="GyberWallet5.jpg" width="120">
+</p>
+
+**Описание:** Разработка крипто-кошелька с кастодиальными и некостодиальными хранилищами. Использованы Flutter, Serverpod и BLoC.
+
+---
+
+### SFERA – Социальная платформа
+
+<p align="center">
+  <img src="Sfera.jpg" width="120">  
+</p>
+
+**Описание:** Получил базовые знания и навыки работы с Flutter и смежными технологиями, участвовал в разработке приложения "SFERA".
+
+---
+
+## 📩 Контакты
+
+📧 **Email:** borisukrusaln12345@gmail.com  
+📱 **Telegram:** [@flutterruslan](https://t.me/flutterruslan)  
+📱 **Viber:** +375255350547  
+📱 **WhatsApp:** +94741585577  
+
+---
+
+🔥 **Ищу интересные проекты! Готов к новым вызовам и сотрудничеству.**

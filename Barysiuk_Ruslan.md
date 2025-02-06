@@ -4,13 +4,13 @@
   <tr>
     <td valign="top">
       📍 Шри-Ланка 🇱🇰<br>
-      🇧🇾 Беларусь<br>
+      🇧🇾  Беларусь<br>
       ✉️ borisukrusaln12345@gmail.com<br>
       📞 Viber: +375 (25) 5350547<br>
       📞 WhatsApp, Telegram: <a href="https://t.me/flutterruslan">@flutterruslan</a>
     </td>
     <td valign="top" align="right">
-      <img src="AVA.jpg" width="120" style="border-radius: 50%; margin-left: 30px;">
+      <img src="AVA.jpg" width="120" style="border-radius: 50%; margin-left: 50px;">
     </td>
   </tr>
 </table>

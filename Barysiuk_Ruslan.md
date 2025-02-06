@@ -6,7 +6,7 @@
 📞 Viber: +375 (25) 5350547  
 📞 WhatsApp, Telegram: [@flutterruslan](https://t.me/flutterruslan)
 <p align="right">
-  <img src="AVA.jpg" width="70" style="border-radius: 50%">
+  <img src="AVA.jpg" width="100" style="border-radius: 50%">
 </p>
 
 ## 🛠️ Навыки

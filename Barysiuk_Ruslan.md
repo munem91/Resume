@@ -4,7 +4,9 @@
   <img src="AVA.jpg" width="120" style="border-radius: 50%">
 </p>
 
-📍 Шри-Ланка 🇱🇰  
+📍 Шри-Ланка 🇱🇰  <p align="right">
+  <img src="AVA.jpg" width="120" style="border-radius: 50%">
+</p>
 🇧🇾 Беларусь  
 ✉️ borisukrusaln12345@gmail.com  
 📞 Viber: +375 (25) 5350547  

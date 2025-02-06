@@ -1,16 +1,13 @@
 # 📌 Борисюк Руслан | Flutter Разработчик с 3-летним опытом
 
-<p align="right">
-  <img src="AVA.jpg" width="120" style="border-radius: 50%">
-</p>
-
-📍 Шри-Ланка 🇱🇰  <p align="right">
-  <img src="AVA.jpg" width="120" style="border-radius: 50%">
-</p>
-🇧🇾 Беларусь  
+📍 Шри-Ланка 🇱🇰
+🇧🇾  Беларусь  
 ✉️ borisukrusaln12345@gmail.com  
 📞 Viber: +375 (25) 5350547  
 📞 WhatsApp, Telegram: [@flutterruslan](https://t.me/flutterruslan)
+<p align="right">
+  <img src="AVA.jpg" width="70" style="border-radius: 50%">
+</p>
 
 ## 🛠️ Навыки
 
@@ -85,7 +82,7 @@
 ### SFERA – Социальная платформа
 
 <p align="center">
-  <img src="Sfera.jpg" width="120">  
+  <img src="Sfera.jpg" width="460">  
 </p>
 
 **Описание:** Получил базовые знания и навыки работы с Flutter и смежными технологиями, участвовал в разработке приложения "SFERA".

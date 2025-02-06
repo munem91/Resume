@@ -43,14 +43,14 @@
 
 ---
 
-### Гибер  
+### Gyber  
 <img src="giber.jpg" width="600" />  
 **Описание:** Разработка крипто-кошелька с кастодиальными и некостодиальными хранилищами. Использованы Flutter, Serverpod и BLoC.
 
 ---
 
 ### SFERA – Социальная платформа  
-<img src="sfera.jpg" width="600" />  
+<img src="sfera.jpg" width="600" style="border: 1px solid #ccc; padding: 5px;" />  
 **Описание:** Участвовал в разработке социальной платформы "SFERA", работая с Flutter и смежными технологиями.
 
 ---

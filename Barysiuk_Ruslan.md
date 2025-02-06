@@ -68,7 +68,7 @@
 
 ---
 
-### Kerla – Финансовый инструмент
+### Kerla – Маркетплейс
 
 <p align="center">
   <img src="Kerla1.jpg" width="120"> 

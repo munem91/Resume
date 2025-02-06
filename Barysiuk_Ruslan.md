@@ -6,8 +6,8 @@
       📍 Шри-Ланка 🇱🇰<br>
       🇧🇾  Беларусь<br>
       ✉️ borisukrusaln12345@gmail.com<br>
-      📞 Viber: +375 (25) 5350547<br>
-      📞 WhatsApp, 
+      📞 Viber: +375255350547<br>
+      📞 WhatsApp: +94741585577<br>
       📞 Telegram: <a href="https://t.me/flutterruslan">@flutterruslan</a>
     </td>
     <td valign="top" align="right">

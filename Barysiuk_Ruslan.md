@@ -5,7 +5,7 @@
 ✉️ borisukrusaln12345@gmail.com  
 📞 Viber: +375 (25) 5350547  
 📞 WhatsApp, Telegram: [@flutterruslan](https://t.me/flutterruslan)
-<p align="right">
+<p align="center">
   <img src="AVA.jpg" width="100" style="border-radius: 50%">
 </p>
 
